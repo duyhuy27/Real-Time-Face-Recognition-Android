@@ -50,16 +50,15 @@ git clone https://github.com/atharvakale31/Face_Recognition_Android.git
 
 [Video Details](https://drive.google.com/file/d/1fMUBLvC93JNzuy9RU4tPTzv3geHrDz60/view?usp=sharing)
 
-![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059611411_b3f02f4888f5e82bbab03515b933b471.jpg | width=100)
+![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059611411_b3f02f4888f5e82bbab03515b933b471.jpg)
 
-![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059614761_a79d01b246594774e1c99744705e1bc7.jpg | width=100)
+![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059614761_a79d01b246594774e1c99744705e1bc7.jpg)
 
-![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059609739_416ba23da76524be62e8eee0b31137f0.jpg | width=100)
+![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059609739_416ba23da76524be62e8eee0b31137f0.jpg)
 
-![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059611176_10ecb9abdac72b6eb1cee6d86499deb7.jpg | width=100)
+![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059611176_10ecb9abdac72b6eb1cee6d86499deb7.jpg)
 
-![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059607542_45286cdcf5f537c055a06e9199b3748e.jpg | width=100)
-
+![alt text](https://github.com/duyhuy27/Real-Time_Face_Recognition_Android/blob/main/Image/z4969059607542_45286cdcf5f537c055a06e9199b3748e.jpg)
 
 
 ## License
